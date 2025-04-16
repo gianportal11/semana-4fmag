@@ -41,6 +41,8 @@ namespace ejercicio1
                     Console.WriteLine("x1: " + x1);
                     
                 }
+
+
             else { Console.WriteLine  ("no tiene soluciones"); }
             }
 
